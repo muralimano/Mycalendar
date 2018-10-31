@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My calendar</string>
+    <string name="current_location">Current Location value</string>
+    <string name="star_eng_date">English date:</string>
+    <string name="star_tam_date">Tamil Date:</string>
+    <string name="star_name">Star Name:</string>
+
+</resources>
