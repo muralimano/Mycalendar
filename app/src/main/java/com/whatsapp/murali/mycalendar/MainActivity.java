@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class MainActivity extends Activity implements View.OnClickListener {
-
+// added comments
     StarsDataBaseHelper stardb;
     TextView starname;
     TextView starengdate;
