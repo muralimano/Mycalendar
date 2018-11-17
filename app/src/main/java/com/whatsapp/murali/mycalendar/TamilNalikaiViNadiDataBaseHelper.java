@@ -11,6 +11,17 @@ import android.util.Log;
  * Created by KaGee on 11/17/2018.
  */
 
+
+/*
+insertIntoDB("0","0.30","0","0", "12");
+        insertIntoDB("0","1","0","0", "24");
+
+        insertIntoDB("0","1.30","0","0", "36");
+
+        insertIntoDB("0","2.00","0","0", "48");
+
+        insertIntoDB("0","2.30","0","1", "00");*/
+
 public class TamilNalikaiViNadiDataBaseHelper  extends SQLiteOpenHelper {
 
 
@@ -66,6 +77,23 @@ public class TamilNalikaiViNadiDataBaseHelper  extends SQLiteOpenHelper {
                 insertIntoDB("0","0.30","0","0", "22");
                 insertIntoDB("0","0.30","0","0", "23");
                 insertIntoDB("0","1","0","0", "24");
+
+                insertIntoDB("0","1.30","0","0", "36");
+
+                insertIntoDB("0","2.00","0","0", "48");
+
+                insertIntoDB("0","2.30","0","1", "00");
+
+                insertIntoDB("0","3","0","1", "12");
+                insertIntoDB("0","3.30","0","1", "24");
+
+                insertIntoDB("0","4","0","1", "36");
+
+                insertIntoDB("0","4.30","0","1", "48");
+
+                insertIntoDB("0","5","0","2", "00");
+
+
 
 
 
