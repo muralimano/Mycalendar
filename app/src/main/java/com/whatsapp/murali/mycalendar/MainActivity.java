@@ -61,7 +61,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         stardb = new StarsDataBaseHelper(this);
 
-
+       // tamil nalikai vinadi DB data
+        new TamilNalikaiViNadiDataBaseHelper(this);
 
 
         current_engdate = "19/10/2018";
